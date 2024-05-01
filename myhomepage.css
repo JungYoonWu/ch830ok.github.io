@@ -62,7 +62,7 @@ nav{
         display: grid;
         background-color: red;
         grid-template-columns:auto;
-        grid-template-rows: 10% 10% 30% 40% 10%;
+        grid-template-rows: 10% 10% auto auto auto;
         text-align: center;
         grid-template-areas: 
         "header"
